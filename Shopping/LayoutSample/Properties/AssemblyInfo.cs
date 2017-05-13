@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 組件的一般資訊會透過將設定 
 // 控制。變更這些屬性值可修改與組件關聯的
 // 資訊。
-[assembly: AssemblyTitle("Shopping")]
+[assembly: AssemblyTitle("LayoutSample")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Shopping")]
-[assembly: AssemblyCopyright("Copyright (C)  2017")]
+[assembly: AssemblyProduct("LayoutSample")]
+[assembly: AssemblyCopyright("Copyright (C)  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 下列 GUID 為專案公開 (Expose) 至 COM 時所要使用的 typelib ID
-[assembly: Guid("0e226857-d9c2-4898-8b04-3f878585f448")]
+[assembly: Guid("be7c2b21-399a-4daa-b8ae-2060cb452503")]
 
 // 組件的版本資訊是由下列四項值構成:
 //

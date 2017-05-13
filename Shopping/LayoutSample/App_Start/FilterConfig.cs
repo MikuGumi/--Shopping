@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace Shopping
+namespace LayoutSample
 {
     public class FilterConfig
     {
